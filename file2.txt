@@ -1,1 +1,3 @@
 Hello universe!
+now i am trying to use vim editor to edit this file , it looks intimedating but i will tame it if needed!
+to get out insert mode which i pressed the letter "i" to get into it, i need to press escape key, then type ":" toinititate the command , then press "w" for write , then press "q" for quit!  
